@@ -12,7 +12,6 @@ def speak_to_grandma(phrase)
     puts "HUH?! SPEAK UP, SONNY!"
   end
 end
-end
 # If you shout, she can hear you (or at least she thinks so) 
 # and yells back
 
